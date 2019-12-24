@@ -1,0 +1,2 @@
+# MqdSessionStateStoreProvider
+MqdSessionStateStoreProvider (C#)
